@@ -1,5 +1,4 @@
-https://github.com/shuklaharsh3009/cycleGAN/blob/main/imgs/horse2zebra.gif?raw=true
-
+![Horse to Zebra](https://github.com/shuklaharsh3009/cycleGAN/blob/main/imgs/horse2zebra.gif?raw=true)
 
 
 # CycleGAN and pix2pix in PyTorch
