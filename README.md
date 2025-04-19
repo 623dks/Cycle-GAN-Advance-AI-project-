@@ -1,8 +1,5 @@
 
-<img src='C:\Users\Lenovo\Downloads\horse2zebra.gif'![horse2zebra](https://github.com/user-attachments/assets/cdb49e55-134c-4ebd-a2e2-f1ea71d339cc)
- align="right" width=384>
 
-<br><br><br>
 
 # CycleGAN and pix2pix in PyTorch
 
